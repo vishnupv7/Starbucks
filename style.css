@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: #fff;
+}
+.top-line{
+    width: 100%;
+    height: 10px;
+    background-color: #006341;
+}
+.main{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(248, 248, 249);
+
+}
+.head-1{
+    height:90px;
+    width:100% ;
+    background-color:rgb(250, 253, 250) ;
+    display: flex;
+
+}
+.head-2{
+    height:55px ;
+    width:100% ;
+    background-color:rgb(251, 253, 253) ;
+}
+.logo{
+    height: 90px;
+    width:200px;
+}
+.logo-img{
+    margin-left: 120px;
+    margin-top:18px ;
+
+
+}
+.location{
+    height:50px ;
+    width:80px ;
+    margin-left:1085px ;
+    margin-top: 20px;
+
+}
+.location-img{
+    
+    width:18px;
+    height:20px ;
+
+}
+.find{
+    width:200px ;
+    height:90px ;
+    margin-top: 25px;
+    
+    
+
+}
+.find-text{
+
+    text-decoration: none;
+    font-size: 15px;
+
+
+
+}
+a:link{
+    text-decoration: none;
+    color: black;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    
+
+}
+.nav-ul{
+
+
+    grid-gap:0.8rem;
+    margin: 0%;
+    border: 0;
+    width: 100%px;
+    height: 39px;
+    float: left;
+    display: flex;
+    align-items: center;
+    list-style-type:none;
+    margin-top: 10px;
+    margin-left: 120px;
+    font-size: 15px;
+    letter-spacing: 2px;
+
+}
+.banner1{
+    margin: 0;
+    height: 550px;
+    width: 100%;
+
+}
+.pic1{
+    height: 550px;
+    width: 100%;
+}
+.last
+{
+    width: 100%;
+    height: 150px;
+    background-color:#f0f0f0;
+}
+.foot
+{
+    width: 100%;
+    height: 350px;
+    background-color:#f7f7f7;
+    font-size: 1.0em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.foot-last
+{
+    margin-left: 80px;
+    width: 50%;
+}
+table
+{
+ padding-top:30px;
+  height: 180px;
+  border-spacing: 25px;
+}
+.last-icon
+{
+    margin-left: 110px;
+   width: 50%;
+   height: 100px;
+   padding-top: 20px;
+}
+.last-img
+{
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+.star
+{
+    height: 100px;
+    width: 400px;
+    margin-left: 500px;
+}
+h1{
+    font-size: 15px;
+    font-weight: lighter;
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+
